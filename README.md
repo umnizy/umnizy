@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @umnizy
-- 👀 I’m interested in too many things 
-- 🌱 I’m currently learning how to build my own websites via html/css) and coding animations through Processing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 Team Watermelons and Upside Down Triangles 
+- 🌱 Currently in school finishing my degree in Interaction Design. Learning how to build my own websites via html/css, coding animations through Processing, building a handmade plotter for one of my classes. 
+- 💞️ I’m looking to collaborate on design work, art and writing projects 
+- 📫 How to reach me - ux.umni@gmail.com
 
 <!---
 umnizy/umnizy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
